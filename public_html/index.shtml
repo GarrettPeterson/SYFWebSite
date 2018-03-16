@@ -236,23 +236,17 @@ window.onload=function(){GetCount();}//call when everything has loaded
 
 				    end comment out of fund raiser content  ***************************************** -->
 
-				    <!-- *********************  Comment out early signup
-                    <div class="tp-caption sfl tp-resizeme thm-banner-h2 white" 
+
+                    <div class="tp-caption sfl tp-resizeme thm-banner-h1 white black-bg" 
 				        data-x="left" data-hoffset="0" 
-				        data-y="top" data-voffset="280" 
+				        data-y="top" data-voffset="250" 
 				        data-whitespace="nowrap"
 				        data-transform_idle="o:1;" 
 				        data-transform_in="o:0" 
 				        data-transform_out="o:0" 
 				        data-start="500">
-						Early Signup Discount Ends June 30th!
+						Early Signup Discount Ends July 11th!
 				    </div>
-
-
-
-				    ******* End of early signup comment out -->
-
-                    <!-- ************************* Comment out of registration 
                     <div class="tp-caption sfl tp-resizeme" 
 				        data-x="left" data-hoffset="0" 
 				        data-y="top" data-voffset="315" 
@@ -261,7 +255,7 @@ window.onload=function(){GetCount();}//call when everything has loaded
 				        data-transform_in="o:0" 
 				        data-transform_out="o:0" 
 				        data-start="500">
-						<a href="/Online%20Registration%20Instructions.pdf"  target="_blank" class="thm-btn inverse">Online Registration Instructions</a>
+						<a href="/OnlineRegistrationInstructions.pdf"  target="_blank" class="thm-btn inverse">Online Registration Instructions</a>
 				    </div>
 					<div class="tp-caption sfl tp-resizeme" 
 				        data-x="left" data-hoffset="0" 
@@ -275,7 +269,7 @@ window.onload=function(){GetCount();}//call when everything has loaded
 				    </div>
                     
                     
-                    *********************  end of registration comment out -->
+
                     <!-- ******* Comment out Equipment Room Info 
 		            <div class="tp-caption sfl tp-resizeme thm-banner-h1 white black-bg" 
 				        data-x="left" data-hoffset="0" 
