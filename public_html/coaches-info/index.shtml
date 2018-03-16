@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Spartans Youth Football || Coaches' Info</title>
+
+	<!-- responsive meta -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<!-- master stylesheet -->
+	<link rel="stylesheet" href="http://spartansyouthfootball.com/css/style.css">
+	<!-- responsive stylesheet -->
+	<link rel="stylesheet" href="http://spartansyouthfootball.com/css/responsive.css">
+
+	<!-- PASSWORD PROTECTION -->
+   <script>
+	function passWord() {
+	var testV = 1;
+	var pass1 = prompt('Please Enter Your Password',' ');
+	while (testV < 3) {
+	if (!pass1)
+	history.go(-1);
+	if (pass1.toLowerCase() == "hustle2016") {
+	window.open('hustle2016.shtml');
+	break;
+	}
+	testV+=1;
+	var pass1 =
+	prompt('Access Denied - Password Incorrect, Please Try Again.','Password');
+	}
+	if (pass1.toLowerCase()!="password" & testV ==3)
+	history.go(-1);
+	return " ";
+	}
+  </script>
+
+</head>
+<body>
+
+
+	 		<!-- START TOPHAT -->
+			<div>
+			<!--#include virtual="../tophat.html" --> 
+			</div>	
+		 	<!-- END TOPHAT -->
+            
+            
+            <!-- START HEADER -->
+			<div>
+			<!--#include virtual="../header.html" --> 
+			</div>	
+		 	<!-- END HEADER -->
+
+
+
+	<section class="sec-padding meet-Volunteer">
+		<div class="container">
+			<div class="sec-title text-left">
+				<h2>Coaches' Info</h2>
+			</div>
+            <!-- START CONTENT -->
+			<div class="clearfix">
+					<div class="item">
+						<p>
+                        Please enter the password given at the coaches meeting to access the 2017 Spartans Youth 
+                        Football Coaches information and playbooks.</p>
+				<FORM>
+				<input type="button" class="thm-btn" value="Enter Protected Area" onClick="passWord()">
+				</FORM>
+               <!-- END CONTENT -->
+                        </p>
+					</div>
+			</div>
+		</div>
+	</section>
+
+
+	
+	<!-- START FOOTER -->
+		<div>
+		<!--#include virtual="../footer.html" --> 
+		</div>
+<!-- END FOOTER -->
+
+
+	<!-- main jQuery -->
+	<script src="http://spartansyouthfootball.com/js/jquery-1.11.1.min.js"></script>
+	<!-- bootstrap -->
+	<script src="http://spartansyouthfootball.com/js/bootstrap.min.js"></script>
+	<!-- bx slider -->
+	<script src="http://spartansyouthfootball.com/js/jquery.bxslider.min.js"></script>
+	<!-- owl carousel -->
+	<script src="http://spartansyouthfootball.com/js/owl.carousel.min.js"></script>
+	<!-- validate -->
+	<script src="http://spartansyouthfootball.com/js/validate.js"></script>
+	<!-- mixit up -->
+	<script src="http://spartansyouthfootball.com/js/jquery.mixitup.min.js"></script>
+	<!-- fancybox -->
+	<script src="http://spartansyouthfootball.com/js/jquery.fancybox.pack.js"></script>
+	<!-- easing -->
+	<script src="http://spartansyouthfootball.com/js/jquery.easing.min.js"></script>
+	<!-- circle progress -->
+	<script src="http://spartansyouthfootball.com/js/circle-progress.js"></script>
+	<!-- appear js -->
+	<script src="http://spartansyouthfootball.com/js/jquery.appear.js"></script>
+	<!-- count to -->
+	<script src="http://spartansyouthfootball.com/js/jquery.countTo.js"></script>
+	<!-- gmap helper -->
+	<script src="http://maps.google.com/maps/api/js?sensor=true"></script>
+	<!-- gmap main script -->
+	<script src="http://spartansyouthfootball.com/js/gmap.js"></script>
+
+	<!-- isotope script -->
+	<script src="http://spartansyouthfootball.com/js/isotope.pkgd.min.js"></script>
+	<!-- jQuery ui js -->
+	<script src="http://spartansyouthfootball.com/js/jquery-ui-1.11.4/jquery-ui.js"></script>
+
+
+	<!-- thm custom script -->
+	<script src="http://spartansyouthfootball.com/js/custom.js"></script>
+
+
+
+</body>
+</html>

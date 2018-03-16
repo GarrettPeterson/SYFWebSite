@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Spartans Youth Football || Important Dates</title>
+
+	<!-- responsive meta -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<!-- master stylesheet -->
+	<link rel="stylesheet" type="text/css" href="../css/style.css">
+	<!-- responsive stylesheet -->
+	<link rel="stylesheet" type="text/css" href="../css/responsive.css">
+    <link rel="stylesheet" type="text/css" href="../css/table.css">
+
+
+
+</head>
+<body>
+
+
+	 		<!-- START TOPHAT -->
+			<div>
+			<!--#include virtual="../tophat.html" --> 
+			</div>	
+		 	<!-- END TOPHAT -->
+            
+            
+            <!-- START HEADER -->
+			<div>
+			<!--#include virtual="../header.html" --> 
+			</div>	
+		 	<!-- END HEADER -->
+
+
+
+	<section class="sec-padding meet-Volunteer">
+		<div class="container">
+			<div class="sec-title text-left">
+				<h2>Important Dates in 2017</h2>
+			</div>
+				
+                <div class="clearfix">
+				
+                <!-- DATES -->
+    	<div class="row">
+    		<div class="col-md-12 col-sm-12 e-heading"> 
+            
+    			<div id="page-wrap">
+				<table>
+				<thead>
+					<tr>
+						<th>Event</th>
+						<th>Information</th>
+						<th>Date</th>
+		 			</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>YOUTH CAMP (4th &amp; 5th Grades)</td>
+						<!--<td>MEMORIAL - Practice Fields (4:00 - 5:30 pm)</td>
+						<td>June 27 - 29</td> -->
+                        <td>TBD</td>
+		 			 </tr>
+					 <tr>
+		  				<td>MIDDLE SCHOOL CAMP (6th - 8th Grades)</td>
+                        <!--
+		 				<td>MEMORIAL - Practice Fields (6:00 - 8:00 pm)</td>
+		  				<td>June 27 - 29</td>
+                        -->
+                        <td>TBD</td>
+		  			</tr>
+					<tr>
+		  				<td>Equipment Handout (7th & 8th Grades)</td>
+                        <!--
+		  				<td>MEMORIAL - Equipment Room (5:00 - 6:30 pm)</td>
+		 				<td>July 25</td>
+                        -->
+                        <td>TBD</td>
+		  			</tr>
+					<tr>
+		  				<td>Equipment Handout (4th - 6th Grades)</td>
+                        <!--
+		  				<td>MEMORIAL - Equipment Room (5:00 - 6:30 pm)</td>
+		  				<td>July 26</td>
+                        -->
+                        <td>TBD</td>
+		  			</tr>
+					<tr>
+		  				<td><span style="color:#F00;">DCAYFL “Mandatory” Meeting (All Coach’s & Referee’s)</span></td>
+                        <!--
+		  				<td> MATC TRUAX - Mitby Center (6:00-8:00 pm)</td>
+		  				<td>August 1</td>
+                        -->
+                        <td>TBD</td>
+		  			</tr>
+                    <tr>
+		  				<td>FIRST Practice (4th - 8th Grades)</td>
+                        <!--
+		  				<td>MEMORIAL - Practice Fields (5:00 pm Start Time)</td>
+		  				<td>August 2</td>
+                        -->
+                        <td>TBD</td>
+		  			</tr>
+          			<tr>
+		  				<td>All Parent Meeting (4th - 8th Grade Parents)</td>
+                        <!--
+		  				<td>MEMORIAL – Auditorium (530 - 6:30 pm)</td>
+		  				<td>August 4</td>
+                        -->
+                        <td>TBD</td>
+		  			</tr>
+          			<tr>
+		  				<td>DRAFT - Coaches ONLY (4th - 8th Grades)</td>
+                        <!--
+		  				<td>Dahmen’s Pizza (7:00 pm)</td>
+		  				<td>August 8</td>
+                        -->
+                        <td>TBD</td>
+		  			</tr>
+          			<tr>
+		  				<td>LAST DAY TO REGISTER</td>
+                    <!--
+		  				<td>To Play “Spartan Youth Football”</td>
+		  				<td>August 12</td>
+                        -->
+                        <td>TBD</td>
+		 			 </tr>
+         			 <tr>
+		  				<td>Team Photo Day <span style="color:#F00;">(MANDATORY ATTENDANCE)</span></td>
+                        <!--
+		  				<td>MEMORIAL – Practice Fields <span style="color:#F00;">(4pm start time)</span></td>
+		  				<td><span style="color:#F00;">August 15</span></td>
+                        -->
+                        <td>TBD</td>
+		  			</tr>
+          			<tr>
+		  				<td>Official “Weigh - In” <span style="color:#F00;">(MANDATORY ATTENDANCE)</span></td>
+                        <!--
+		  				<td>MEMORIAL – Practice Fields (5:30 pm Start Time)</td>
+		  				<td><span style="color:#F00;">August 17</span></td>
+                        -->
+                        <td>TBD</td>
+		  			</tr>
+          			<tr>
+		  				<td>Scrimmages <span style="color:#F00;">(All Grades)</span></td>
+                        <!--
+		  				<td>WARNER PARK FIELDS (Start Times - TBD)</td>
+		  				<td><span style="color:#F00;">August 20</span></td>
+                        -->
+                        <td>TBD</td>
+		  			</tr>
+          			<tr>
+		  				<td>FIRST GAME (4th - 8th Grades)</td>
+                        <!--
+		  				<td>Refer to your Grade Schedule</td>
+		  				<td>August 27</td>
+                        -->
+                        <td>TBD</td>
+		  			</tr>
+                    <tr>
+		  				<td>“Spartan Youth Football Night” (Do "Spartan Jacks"with varsity before the game!</td>
+                        <!--
+		  				<td>MEMORIAL HS - Mansfield Stadium (6:15pm) *Wear Game Jerseys*</td>
+
+		  				<td>September 16</td>
+                        -->
+                        <td>TBD</td>
+		  			</tr>
+          			<tr>
+		  				<td>LAST GAME (4th – 8th Grades)</td>
+                        <!--
+		  				<td>Refer to your Grade Schedule</td>
+		  				<td>October 15</td>
+                        -->
+                        <td>TBD</td>
+		  			</tr>
+         			<tr>
+		  				<td>Equipment Turn - In (4th – 8th Grades)</td>
+                        <!--
+		  				<td>MEMORIAL - Equipment Room (5:00 pm Start Time)</td>
+		  				<td>October 17</td>
+                        -->
+                        <td>TBD</td>
+		  			</tr>
+				</tbody>
+				</table>
+                <!--<p><i class="fa fa-download"><a style="color:#666;" href="Important Dates.pdf" target="_blank"> Download Important Dates (PDF)</a></i></p> -->
+				</div>
+                
+          
+          </div>
+          </div>
+          <!-- END DATES -->
+                    
+				</div>
+			
+            </div>
+		</div>
+	</section>
+
+
+	
+	<!-- START FOOTER -->
+		<div>
+		<!--#include virtual="../footer.html" --> 
+		</div>
+<!-- END FOOTER -->
+
+
+	<!-- main jQuery -->
+	<script src="http://spartansyouthfootball.com/js/jquery-1.11.1.min.js"></script>
+	<!-- bootstrap -->
+	<script src="http://spartansyouthfootball.com/js/bootstrap.min.js"></script>
+	<!-- bx slider -->
+	<script src="http://spartansyouthfootball.com/js/jquery.bxslider.min.js"></script>
+	<!-- owl carousel -->
+	<script src="http://spartansyouthfootball.com/js/owl.carousel.min.js"></script>
+	<!-- validate -->
+	<script src="http://spartansyouthfootball.com/js/validate.js"></script>
+	<!-- mixit up -->
+	<script src="http://spartansyouthfootball.com/js/jquery.mixitup.min.js"></script>
+	<!-- fancybox -->
+	<script src="http://spartansyouthfootball.com/js/jquery.fancybox.pack.js"></script>
+	<!-- easing -->
+	<script src="http://spartansyouthfootball.com/js/jquery.easing.min.js"></script>
+	<!-- circle progress -->
+	<script src="http://spartansyouthfootball.com/js/circle-progress.js"></script>
+	<!-- appear js -->
+	<script src="http://spartansyouthfootball.com/js/jquery.appear.js"></script>
+	<!-- count to -->
+	<script src="http://spartansyouthfootball.com/js/jquery.countTo.js"></script>
+	<!-- gmap helper -->
+	<script src="http://maps.google.com/maps/api/js?sensor=true"></script>
+	<!-- gmap main script -->
+	<script src="http://spartansyouthfootball.com/js/gmap.js"></script>
+
+	<!-- isotope script -->
+	<script src="http://spartansyouthfootball.com/js/isotope.pkgd.min.js"></script>
+	<!-- jQuery ui js -->
+	<script src="http://spartansyouthfootball.com/js/jquery-ui-1.11.4/jquery-ui.js"></script>
+
+
+	<!-- thm custom script -->
+	<script src="http://spartansyouthfootball.com/js/custom.js"></script>
+
+
+
+</body>
+</html>

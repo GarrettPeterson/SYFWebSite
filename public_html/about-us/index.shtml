@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="generator"
+    content="HTML Tidy for HTML5 (experimental) for Windows https://github.com/w3c/tidy-html5/tree/c63cc39" />
+    <meta charset="UTF-8" />
+    <title>Spartans Youth Football || About Us</title>
+    <!-- responsive meta -->
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- master stylesheet -->
+    <link rel="stylesheet" href="http://spartansyouthfootball.com/css/style.css" />
+    <!-- responsive stylesheet -->
+    <link rel="stylesheet" href="http://spartansyouthfootball.com/css/responsive.css" />
+  </head>
+  <body>
+  <!-- START TOPHAT -->
+  <div>
+    <!--#include virtual="../tophat.html" -->
+  </div>
+  <!-- END TOPHAT -->
+  <!-- START HEADER -->
+  <div>
+    <!--#include virtual="../header.html" -->
+  </div>
+  <!-- END HEADER -->
+  <section class="sec-padding meet-Volunteer">
+    <div class="container">
+      <div class="sec-title text-left">
+        <h2>Meet Our Staff</h2>
+        <p>Our organization is managed and organized by volunteers and carries no paid positions within the Board of Directors.
+        <br />The Board of Directors consists of 4 Chair positions; President, Vice President, Treasurer and Secretary with
+        additional
+        <br />board seats varying dependent on organizational needs.</p>
+        <div class="table text-thm">
+          <div class="table-cell">
+            <h3>David Hull, President</h3>
+          </div>
+          <div class="table-cell">
+            <h3>Brian Bott,Vice President</h3>
+          </div>
+          <div class="table-cell">
+            <h3>Randy Jurewicz/OPEN, Secretary</h3>
+          </div>
+          <div class="table-row">
+            <h3>Gary Krause, Treasurer / Financial</h3>
+          </div>
+          <div class="table-row">
+            <h3>Randy Jurewicz, Board Director - Equipment</h3>
+          </div>
+          <div class="table-row">
+            <h3>Dr. Jerry Lang, Board Director - Player Safety</h3>
+          </div>
+          <div class="table-row">
+            <h3>Wayne Horman, Board Director - Fund Raising</h3>
+          </div>
+          <div class="table-row">
+            <h3>Gary Krause, Board Director - Officials</h3>
+          </div>
+          <div class="table-row">
+            <h3>Garrett Peterson, Board Director - Web Administrator</h3>
+          </div>
+          <div class="table-row">
+            <h3>Jeff Paterson, Board Director - Recruiting</h3>
+          </div>
+          <div class="table-row">
+            <h3>Mike Harris, Board Director - High School Football Coach</h3>
+          </div>
+          <div class="table-row">
+            <h3>Chris Ceniti, Board Director - At large</h3>
+          </div>
+          <div class="table-row">
+            <h3>Open, Board Director - Youth Coach Representative</h3>
+            <span></span>
+          </div>
+          <div class="table-row">
+            <h3>Meggin Welsing, Board Director - Parent Representative</h3>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- START FOOTER -->
+  <div>
+    <!--#include virtual="../footer.html" -->
+  </div>
+  <!-- END FOOTER -->
+  <!-- main jQuery -->
+  <script src="http://spartansyouthfootball.com/js/jquery-1.11.1.min.js"></script> 
+  <!-- bootstrap -->
+   
+  <script src="http://spartansyouthfootball.com/js/bootstrap.min.js"></script> 
+  <!-- bx slider -->
+   
+  <script src="http://spartansyouthfootball.com/js/jquery.bxslider.min.js"></script> 
+  <!-- owl carousel -->
+   
+  <script src="http://spartansyouthfootball.com/js/owl.carousel.min.js"></script> 
+  <!-- validate -->
+   
+  <script src="http://spartansyouthfootball.com/js/validate.js"></script> 
+  <!-- mixit up -->
+   
+  <script src="http://spartansyouthfootball.com/js/jquery.mixitup.min.js"></script> 
+  <!-- fancybox -->
+   
+  <script src="http://spartansyouthfootball.com/js/jquery.fancybox.pack.js"></script> 
+  <!-- easing -->
+   
+  <script src="http://spartansyouthfootball.com/js/jquery.easing.min.js"></script> 
+  <!-- circle progress -->
+   
+  <script src="http://spartansyouthfootball.com/js/circle-progress.js"></script> 
+  <!-- appear js -->
+   
+  <script src="http://spartansyouthfootball.com/js/jquery.appear.js"></script> 
+  <!-- count to -->
+   
+  <script src="http://spartansyouthfootball.com/js/jquery.countTo.js"></script> 
+  <!-- gmap helper -->
+   
+  <script src="http://maps.google.com/maps/api/js?sensor=true"></script> 
+  <!-- gmap main script -->
+   
+  <script src="http://spartansyouthfootball.com/js/gmap.js"></script> 
+  <!-- isotope script -->
+   
+  <script src="http://spartansyouthfootball.com/js/isotope.pkgd.min.js"></script> 
+  <!-- jQuery ui js -->
+   
+  <script src="http://spartansyouthfootball.com/js/jquery-ui-1.11.4/jquery-ui.js"></script> 
+  <!-- thm custom script -->
+   
+  <script src="http://spartansyouthfootball.com/js/custom.js"></script></body>
+</html>

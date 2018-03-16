@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<title>Spartans Youth Football || Contact Us</title>
+
+	<!-- responsive meta -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- master stylesheet -->
+	<link rel="stylesheet" href="/css/style.css">
+	<!-- responsive stylesheet -->
+	<link rel="stylesheet" href="/css/responsive.css">
+	<script src='https://www.google.com/recaptcha/api.js'></script>
+
+
+
+</head>
+
+<body>
+
+
+	<!-- START TOPHAT -->
+	<div>
+		<!--#include virtual="/tophat.html" -->
+	</div>
+	<!-- END TOPHAT -->
+
+
+	<!-- START HEADER -->
+	<div>
+		<!--#include virtual="/header.html" -->
+	</div>
+	<!-- END HEADER -->
+
+
+
+
+
+	<section class="inner-header">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 sec-title colored text-center">
+					<h2>Contact</h2>
+				</div>
+			</div>
+		</div>
+	</section>
+
+
+	<section class="contact-content sec-padding">
+		<div class="container">
+			<div class="sec-title text-center">
+				<p>All home games and practices are located at the football fields behind Andringa Fieldhouse at Madison Memorial High School.
+					<br> Parking is available in the lot between Madison Memorial and Jefferson Middle School.</p>
+			</div>
+			<div class="google-map" id="contact-page-google-map" data-icon-path="/img/resources/map-marker.png" data-map-lat="43.0641007"
+			 data-map-lng="-89.5017782" data-map-zoom="17" data-map-title="Envato HQ"></div>
+			<div class="row">
+				<div class="col-md-8">
+					<h3>Leave a Message</h3>
+					<form action="inc/sendemail.php" class="contact-form row" id="contact-page-contact-form">
+						<div class="col-md-6">
+							<input type="text" name="name" placeholder="Name">
+							<input type="text" name="email" placeholder="Email">
+							<input type="text" name="subject" placeholder="Subject">
+
+						</div>
+						<div class="col-md-6">
+							<textarea name="message" placeholder="Message" cols="30" rows="10"></textarea>
+						</div>
+						<div class="col-md-12">
+							<div class="g-recaptcha" data-sitekey="6Lf27x0TAAAAAK3UFFaYUhIl5WdHOVL3t5vbiT5B"></div>
+							<br>
+						</div>
+						<div class="col-md-12">
+							<button class="thm-btn" type="submit">Send</button>
+						</div>
+					</form>
+				</div>
+				<div class="col-md-4">
+					<h3>Contact Info</h3>
+					<ul class="contact-info">
+					<!--
+						<li>
+							<div class="icon-box">
+								<div class="inner">
+									<i class="fa fa-home"></i>
+								</div>
+							</div>
+							<div class="content-box">
+								<p>9806 Shadow Wood Drive
+									<br> Verona, WI 53593</p>
+							</div>
+						</li>
+					-->
+						<li>
+							<div class="icon-box">
+								<div class="inner">
+									<i class="fa fa-envelope"></i>
+								</div>
+							</div>
+							<div class="content-box">
+								<p>
+									<span id="obf">
+										<script>document.getElementById("obf").innerHTML = "<n uers=\"znvygb:frpergnel@fcnegnaflbhgusbbgonyy.pbz?fhowrpg=Sebz FcnegnafLbhguSbbgonyy.pbz\" gnetrg=\"_oynax\">Rznvy Hf</n>".replace(/[a-zA-Z]/g, function (c) { return String.fromCharCode((c <= "Z" ? 90 : 122) >= (c = c.charCodeAt(0) + 13) ? c : c - 26); }); document.body.appendChild(eo);</script>
+										<noscript>
+											<span style="unicode-bidi:bidi-override;direction:rtl;">moc.llabtoofhtuoysnatraps@yraterces</span>
+										</noscript>
+									</span>
+								</p>
+							</div>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</section>
+
+
+	<!-- START FOOTER -->
+	<div>
+		<!--#include virtual="../footer.html" -->
+	</div>
+	<!-- END FOOTER -->
+
+
+	<!-- main jQuery -->
+	<script src="/js/jquery-1.11.1.min.js"></script>
+	<!-- bootstrap -->
+	<script src="/js/bootstrap.min.js"></script>
+	<!-- bx slider -->
+	<script src="/js/jquery.bxslider.min.js"></script>
+	<!-- owl carousel -->
+	<script src="/js/owl.carousel.min.js"></script>
+	<!-- validate -->
+	<script src="/js/validate.js"></script>
+	<!-- mixit up -->
+	<script src="/js/jquery.mixitup.min.js"></script>
+	<!-- fancybox -->
+	<script src="/js/jquery.fancybox.pack.js"></script>
+	<!-- easing -->
+	<script src="/js/jquery.easing.min.js"></script>
+	<!-- circle progress -->
+	<script src="/js/circle-progress.js"></script>
+	<!-- appear js -->
+	<script src="/js/jquery.appear.js"></script>
+	<!-- count to -->
+	<script src="/js/jquery.countTo.js"></script>
+	<!-- gmap helper -->
+	<script src="http://maps.google.com/maps/api/js?sensor=true"></script>
+	<!-- gmap main script -->
+	<script src="/js/gmap.js"></script>
+
+	<!-- isotope script -->
+	<script src="/js/isotope.pkgd.min.js"></script>
+	<!-- jQuery ui js -->
+	<script src="/js/jquery-ui-1.11.4/jquery-ui.js"></script>
+
+
+	<!-- thm custom script -->
+	<script src="/js/custom.js"></script>
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Spartans Youth Football || Camps</title>
+
+	<!-- responsive meta -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<!-- master stylesheet -->
+	<link rel="stylesheet" href="http://spartansyouthfootball.com/css/style.css">
+	<!-- responsive stylesheet -->
+	<link rel="stylesheet" href="http://spartansyouthfootball.com/css/responsive.css">
+
+<script language="javascript" type="text/javascript">
+function validateForm(validate)
+{
+if(""==document.forms.validate.os1.value)
+{alert("Please enter Player's Name."); return false;}
+
+if(""==document.forms.validate.os2.value)
+{alert("Please enter Parent/Guardian's Name."); return false;}
+
+if(""==document.forms.validate.os3.value)
+{alert("Please enter Address"); return false;}
+
+if(""==document.forms.validate.os4.value)
+{alert("Please enter your Email."); return false;}
+
+if(""==document.forms.validate.os5.value)
+{alert("Please enter your Phone Number."); return false;}
+
+if(""==document.forms.validate.os6.value)
+{alert("Please enter School."); return false;}
+
+}
+</script>
+
+</head>
+<body>
+
+
+	 		<!-- START TOPHAT -->
+			<div>
+			<!--#include virtual="../../../tophat.html" --> 
+			</div>	
+		 	<!-- END TOPHAT -->
+            
+            
+            <!-- START HEADER -->
+			<div>
+			<!--#include virtual="../../../header.html" --> 
+			</div>	
+		 	<!-- END HEADER -->
+
+
+
+	<section class="sec-padding meet-Volunteer">
+		<div class="container">
+			<div class="sec-title text-left">
+				<h2>2017 4th & 5th Grade Football Camp</h2>
+				<p>
+This camp is a 3-day non-padded camp for 4th & 5th graders Monday July 24th thru Wednesday July 26th. The focus of the camp is on skill development and team play. The Memorial Spartan Football staff along with the Varsity players help coach and assist the camp. Players that register by July 1, 2017 will receive a camp t-shirt. Cleats and workout attire are strongly recommended.
+
+			</p>
+			</div>
+            <div>
+            <!-- form starts here -->
+			      	<form action="https://www.paypal.com/cgi-bin/webscr" onSubmit="return validateForm()" method="post" name="validate">
+					<input type="hidden" name="cmd" value="_s-xclick">
+				    <input type="hidden" name="hosted_button_id" value="RQ5WK35XELCMW">
+					<p><input type="hidden" name="on1" value="Player's Name">
+					Player Name*<br><input name="os1" type="text" size="100" maxlength="300">
+                    </p>
+                    <p><input type="hidden" name="on2" value="Parent's Name">
+					Parent/Guardian Name*<br><input name="os2" type="text" size="100" maxlength="300">
+                    </p>
+					<p><input type="hidden" name="on3" value="Address">
+					Address*<br><input name="os3" type="text" size="100" maxlength="300">
+                    </p>
+                    <p><input type="hidden" name="on4" value="Email">
+					Email*<br><input name="os4" type="text" size="100" maxlength="300">
+                    </p>
+                    <p><input type="hidden" name="on5" value="Phone Number">
+					Phone Number (To contact if in case of cancellations)*<br><input name="os5" type="text" size="100" maxlength="390">
+                    </p>
+                    <p><input type="hidden" name="on6" value="School">
+					School*<br><input name="os6" type="text" size="100" maxlength="300">
+                    </p>
+                    <p><input type="hidden" name="on7" value="Grade">
+					Player will be entering grade:<br>
+                      <label><input type="radio" required name="os7" value="4th" id="Grade 4"> 4th Grade</label>
+                      &nbsp;&nbsp;&nbsp;
+                      <label><input type="radio" required name="os7" value="5th" id="Grade 5"> 5th Grade</label>
+                    </p>
+                    <p><input type="hidden" name="on8" value="Shirt Size">
+					Player Shirt Size (Must click size and register before July 1, 2017 to receive a camp shirt)<br>
+                    <label><input type="radio" required name="os8" value="AS" id="Adult Small"> Adult Small</label>
+                      &nbsp;&nbsp;&nbsp;
+                      <label><input type="radio" required name="os8" value="AM" id="Adult Medium"> Adult Medium</label>
+                      &nbsp;&nbsp;&nbsp;
+                      <label><input type="radio" required name="os8" value="AL" id="Adult Large"> Adult Large</label>
+                      &nbsp;&nbsp;&nbsp;
+                      <label><input type="radio" required name="os8" value="XL" id="Adult XL"> Adult XL</label>
+                      &nbsp;&nbsp;&nbsp;
+                      <label><input type="radio" required name="os8" value="XXL" id="Adult XXL"> Adult XXL</label>
+                    </p>
+                    <!--<p><input type="hidden" name="on9" value="Short Size">
+					Player Short Size (Must click size and register before June 1, 2016 to receive a camp short)<br>
+                    <label><input type="checkbox" name="os9" value="YM" id="Youth Medium (10-12)"> Youth Medium (10-12)</label>
+                      &nbsp;&nbsp;&nbsp;
+                      <label><input type="checkbox" name="os9" value="YL" id="Youth Large (14-16)"> Youth Medium (14-16)</label>
+                      &nbsp;&nbsp;&nbsp;
+                      <label><input type="checkbox" name="os9" value="YXL" id="Youth Extra Large (18-20)"> Youth Extra Large (18-20)</label>
+                      &nbsp;&nbsp;&nbsp;
+                      <label><input type="checkbox" name="os9" value="AS" id="Adult Small (29-31)"> Adult Small (29-31)</label>
+                      &nbsp;&nbsp;&nbsp;
+                      <label><input type="checkbox" name="os9" value="AM" id="Adult Medium (32-34)"> Adult Medium (32-34)</label>
+                      &nbsp;&nbsp;&nbsp;
+                      <label><input type="checkbox" name="os9" value="AL" id="Adult Large (35-37)"> Adult Large (35-37)</label>
+                      &nbsp;&nbsp;&nbsp;
+                      <label><input type="checkbox" name="os9" value="AXL" id="Adult Extra Large (38-40)"> Adult Extra Large (38-40)</label>
+                    </p>-->
+                    <div class="date">
+					<p><strong>Waiver: </strong>In consideration of being permitted to participate in any way in JMM Spartan Football Camp, I, for myself, my heirs, personal representatives or assigns, do hereby release, waive, discharge, and covenant not to sue JMM Spartan Football Camp, its officers, employees, agents and any other entity or organization associated with such camp from liability from any and all claims including the negligence of Madison Metropolitan School District, its officers, employees and agents, resulting in personal injury, accidents or illnesses (including death), and property loss arising from, but not limited to, 
+participation in JMM Spartan Football Camp.</p> 
+ 
+<p><strong>Assumption of Risks:</strong> Participation in Spartan Football Camps carries with it certain inherent risks that cannot be eliminated regardless of the care taken to avoid injuries. The specific risks vary from one activity to another, but the risks range from 1) minor injuries such as scratches, bruises, and sprains to 2) major injuries such as eye injury or loss of sight, joint or back injuries, heart attacks, and concussions to 3) catastrophic injuries including paralysis and death. I have read the previous paragraphs and I know, understand, and appreciate these and other risks that are inherent in JMM Spartan Football Camp. I hereby assert that my participation is voluntary and that I knowingly assume all such risks.</p> 
+
+<p><strong>Indemnification and Hold Harmless: </strong>I also agree to INDEMNIFY AND HOLD Madison Metropolitan School District HARMLESS from any and all claims, actions, suits, procedures, costs, expenses, damages and liabilities, including attorney’s fees brought as a result of my involvement in Spartan Football Camps and to reimburse them for any such expenses incurred.</p> 
+ 
+<p><strong>Severability:</strong> The undersigned further expressly agrees that the foregoing waiver and assumption of risks agreement is intended to be as broad and inclusive as is permitted by the law of the State of Wisconsin and that if any portion thereof is held invalid, it is agreed that the balance shall, notwithstanding, continue in full legal force and effect.</p> 
+ 
+<p><strong>Acknowledgment of Understanding:</strong> I have read this waiver of liability, assumption of risk, and indemnity agreement, fully understand its terms, and understand that I am giving up substantial rights, including my right to sue. I acknowledge that I am signing the agreement freely and voluntarily, and intend by my signature to be a complete and unconditional release of all liability to the greatest extent allowed by law.</p> 
+ 
+<p><strong>RELEASE AUTHORIZATION FOR EMERGENCY TREATMENT:</strong> I understand that I am required to maintain and carry accident medical insurance coverage for the child listed on this application and I verify that the coverage information attached herewith is accurate and true. In the case of an emergency and if I cannot be reached, I authorize the staff of JMM Spartan Football Camp to obtain whatever medical treatment he/she deems necessary for the welfare of my child listed on this application. I further understand that I will be financially responsible for all charges and fees incurred in the rendering of said emergency treatment, regardless of whether or not my medical insurance would cover such charges and fees.</p> 
+
+<p><strong>ELECTRONIC SIGNATURE:</strong> By clicking the “Buy Now” button you as Parent/Guardian and your participant understand and agree to comply with the Waiver of Liability as outlined.</p>
+                    
+                    </div><br />
+                    <input type="hidden" name="currency_code" value="USD">
+					<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                    <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                    </form>
+                  <!-- form ends here -->
+            </div>
+		</div>
+	</section>
+
+
+	
+	<!-- START FOOTER -->
+		<div>
+		<!--#include virtual="../../../footer.html" --> 
+		</div>
+<!-- END FOOTER -->
+
+
+	<!-- main jQuery -->
+	<script src="http://spartansyouthfootball.com/js/jquery-1.11.1.min.js"></script>
+	<!-- bootstrap -->
+	<script src="http://spartansyouthfootball.com/js/bootstrap.min.js"></script>
+	<!-- bx slider -->
+	<script src="http://spartansyouthfootball.com/js/jquery.bxslider.min.js"></script>
+	<!-- owl carousel -->
+	<script src="http://spartansyouthfootball.com/js/owl.carousel.min.js"></script>
+	<!-- validate -->
+	<script src="http://spartansyouthfootball.com/js/validate.js"></script>
+	<!-- mixit up -->
+	<script src="http://spartansyouthfootball.com/js/jquery.mixitup.min.js"></script>
+	<!-- fancybox -->
+	<script src="http://spartansyouthfootball.com/js/jquery.fancybox.pack.js"></script>
+	<!-- easing -->
+	<script src="http://spartansyouthfootball.com/js/jquery.easing.min.js"></script>
+	<!-- circle progress -->
+	<script src="http://spartansyouthfootball.com/js/circle-progress.js"></script>
+	<!-- appear js -->
+	<script src="http://spartansyouthfootball.com/js/jquery.appear.js"></script>
+	<!-- count to -->
+	<script src="http://spartansyouthfootball.com/js/jquery.countTo.js"></script>
+	<!-- gmap helper -->
+	<script src="http://maps.google.com/maps/api/js?sensor=true"></script>
+	<!-- gmap main script -->
+	<script src="http://spartansyouthfootball.com/js/gmap.js"></script>
+
+	<!-- isotope script -->
+	<script src="http://spartansyouthfootball.com/js/isotope.pkgd.min.js"></script>
+	<!-- jQuery ui js -->
+	<script src="http://spartansyouthfootball.com/js/jquery-ui-1.11.4/jquery-ui.js"></script>
+
+
+	<!-- thm custom script -->
+	<script src="http://spartansyouthfootball.com/js/custom.js"></script>
+
+
+
+</body>
+</html>

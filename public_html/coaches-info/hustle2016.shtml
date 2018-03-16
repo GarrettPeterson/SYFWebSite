@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Spartans Youth Football || Coaches' Guide &amp; Information Book</title>
+
+	<!-- responsive meta -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<!-- master stylesheet -->
+	<link rel="stylesheet" href="http://spartansyouthfootball.com/css/style.css">
+	<!-- responsive stylesheet -->
+	<link rel="stylesheet" href="http://spartansyouthfootball.com/css/responsive.css">
+
+
+
+</head>
+<body>
+
+
+	 		<!-- START TOPHAT -->
+			<div>
+			<!--#include virtual="../tophat.html" --> 
+			</div>	
+		 	<!-- END TOPHAT -->
+            
+            
+            <!-- START HEADER -->
+			<div>
+			<!--#include virtual="../header.html" --> 
+			</div>	
+		 	<!-- END HEADER -->
+
+
+
+	<section class="sec-padding meet-Volunteer">
+		<div class="container">
+			<div class="sec-title text-left">
+				<h2>Coaches' Guide &amp; Information Book</h2>
+			</div>
+			<div class="clearfix">
+					<div class="item">
+					
+                    <p>Below is all the info you need to coach a Spartan Youth Football team this fall. Please click the link to download each section.<br> 
+        Or <a href="Coaches Book.pdf" style="color:#666; text-decoration: underline;" target="_blank">click here</a> to download the entire book. (8.2MB)</p>
+                     
+                     <p><a href="Coaches Book Index.pdf" 
+                    style="color:#666; text-decoration: underline;" target="_blank">Binder Index</a></p>
+                    
+                    <li style="list-style:upper-alpha"><a href="Important Dates.pdf" 
+                    style="color:#666; text-decoration: underline;" target="_blank">Important Dates</a></li>
+                    
+                    <li style="list-style:upper-alpha">Coaches Guide &amp; Important Information
+                    <ul>1. <a href="Coaching Expectations.pdf" style="color:#666; text-decoration: underline;" target="_blank">Coaches Expectations</a></ul>
+                    <ul>2. <a href="rules-regulations.pdf" style="color:#666; text-decoration: underline;" target="_blank">Rules &amp; Regulations</a></ul>
+                    <ul>3. <a href="Parent Meeting Outline.pdf" style="color:#666; text-decoration: underline;" target="_blank">Parent Meeting Outline</a></ul>
+                    <ul>4. <a href="Parent Rep Outline.pdf" style="color:#666; text-decoration: underline;" target="_blank">Parent Rep Outline</a></ul>
+                    <ul>5. <a href="Sample Emails.pdf" style="color:#666; text-decoration: underline;" target="_blank">Sample Team Emails</a></ul>
+                    <ul>6. <a href="Heat Related First Aid.pdf" style="color:#666; text-decoration: underline;" target="_blank">Heat Related First Aid Information</a></ul>
+                    <ul>7. <a href="Heat Index Chart.pdf" style="color:#666; text-decoration: underline;" target="_blank">Heat Index Chart</a></ul>
+                    <ul>8. <a href="concussion-plan.pdf" style="color:#666; text-decoration: underline;" target="_blank">Concussion Information</a></ul>
+                    </li>
+                    
+                    <li style="list-style:upper-alpha"><a href="Equipment Important Items.pdf" 
+                    style="color:#666; text-decoration: underline;" target="_blank">Equipment - “9 Important Items”</a></li>
+                    
+                    <li style="list-style:upper-alpha">Practice Information
+                    <ul>1. <a href="First Practice Meeting Outline.pdf" style="color:#666; text-decoration: underline;" target="_blank">First Practice Meeting Outline</a></ul>
+                    <ul>2. <a href="Practice Schedule Dates.pdf" style="color:#666; text-decoration: underline;" target="_blank">Practice Schedule</a></ul>
+                    <ul>3. <a href="Practice Location Map.xls" style="color:#666; text-decoration: underline;" target="_blank">Practice Location Map</a></ul>
+                    <ul>4. <a href="Practice Attendance.xls" style="color:#666; text-decoration: underline;" target="_blank">Practice Attendance</a></ul>
+                    <ul>5. <a href="Practice Information and Drills.pdf" style="color:#666; text-decoration: underline;" target="_blank">Practice Information &amp; Drills</a></ul>
+                    <ul>6. <a href="Player Eval Form.xls" style="color:#666; text-decoration: underline;" target="_blank">Player Evaluation Form</a></ul>
+                    </li>
+                    
+                    <li style="list-style:upper-alpha"><a href="Depth Charts.xls" style="color:#666; text-decoration: underline;" target="_blank">Depth Charts - Offense, Defense, &amp; Special Teams</a></li>
+                    
+                    <li style="list-style:upper-alpha">Offensive Information
+                    <ul>1. <a href="Off Position Responsibilities.pdf" style="color:#666; text-decoration: underline;" target="_blank">Offensive Position Responsibilities</a></ul>
+                    <ul>2. <a href="Playbook 4-5 Grades.pdf" style="color:#666; text-decoration: underline;" target="_blank">Playbook - 4th &amp; 5th Grade</a></ul>
+                    <ul>3. <a href="Playbook 6th Grade.pdf" style="color:#666; text-decoration: underline;" target="_blank">Playbook - 6th Grade</a></ul>
+                    <ul>4. <a href="Playbook 7th Grade.pdf" style="color:#666; text-decoration: underline;" target="_blank">Playbook - 7th Grade</a></ul>
+                    <ul>5. <a href="Playbook 8th Grade.pdf" style="color:#666; text-decoration: underline;" target="_blank">Playbook - 8th Grade</a></ul>
+                    </li>
+                    
+                    <li style="list-style:upper-alpha">Defensive Information</a>
+                    <ul>1. <a href="4-5 Defense.pdf" style="color:#666; text-decoration: underline;" target="_blank">Playbook - 4th &amp; 5th Grade</a></ul>
+                    <ul>2. <a href="6-8 Defense.pdf" style="color:#666; text-decoration: underline;" target="_blank">Playbook - 6th - 8th Grade</a></ul>
+                    </li>
+                    
+                    <li style="list-style:upper-alpha">Special Teams' Rules &amp; Information</a>
+                    <ul>1. <a href="Special Teams Rules.pdf" style="color:#666; text-decoration: underline;" target="_blank">
+                    Punting, Kicking, Field Goals and Extra Points - All Grades</a></ul>
+                    </li>  
+                    
+                    <li style="list-style:upper-alpha">Game Day Information
+                    <ul>1. <a href="Pre-Game Talking Outline.pdf" style="color:#666; text-decoration: underline;" target="_blank">Pre-Game Talking Outline</a></ul>
+                    <ul>2. <a href="Home Game Procedures Responsibilities.pdf" style="color:#666; text-decoration: underline;" target="_blank">Home Game Equipment Pick-Up Procedures &amp; Responsibilities</a></ul>
+                    </li>
+                    
+                    <li style="list-style:upper-alpha">DCAYFL Information
+                    <ul>
+                      1. <a href="DCAYFL-ByLaws.pdf" style="color:#666; text-decoration: underline;" target="_blank">Updated Bylaws (July 2015)  
+                    <span style="color:#F00; font-style:italic;">Please review all rules for your specific grade.</span></a>
+                    </ul>
+                    </li>
+                    
+                    
+                    
+                    </div>
+			</div>
+		</div>
+	</section>
+
+
+	
+	<!-- START FOOTER -->
+		<div>
+		<!--#include virtual="../footer.html" --> 
+		</div>
+<!-- END FOOTER -->
+
+
+	<!-- main jQuery -->
+	<script src="http://spartansyouthfootball.com/js/jquery-1.11.1.min.js"></script>
+	<!-- bootstrap -->
+	<script src="http://spartansyouthfootball.com/js/bootstrap.min.js"></script>
+	<!-- bx slider -->
+	<script src="http://spartansyouthfootball.com/js/jquery.bxslider.min.js"></script>
+	<!-- owl carousel -->
+	<script src="http://spartansyouthfootball.com/js/owl.carousel.min.js"></script>
+	<!-- validate -->
+	<script src="http://spartansyouthfootball.com/js/validate.js"></script>
+	<!-- mixit up -->
+	<script src="http://spartansyouthfootball.com/js/jquery.mixitup.min.js"></script>
+	<!-- fancybox -->
+	<script src="http://spartansyouthfootball.com/js/jquery.fancybox.pack.js"></script>
+	<!-- easing -->
+	<script src="http://spartansyouthfootball.com/js/jquery.easing.min.js"></script>
+	<!-- circle progress -->
+	<script src="http://spartansyouthfootball.com/js/circle-progress.js"></script>
+	<!-- appear js -->
+	<script src="http://spartansyouthfootball.com/js/jquery.appear.js"></script>
+	<!-- count to -->
+	<script src="http://spartansyouthfootball.com/js/jquery.countTo.js"></script>
+	<!-- gmap helper -->
+	<script src="http://maps.google.com/maps/api/js?sensor=true"></script>
+	<!-- gmap main script -->
+	<script src="http://spartansyouthfootball.com/js/gmap.js"></script>
+
+	<!-- isotope script -->
+	<script src="http://spartansyouthfootball.com/js/isotope.pkgd.min.js"></script>
+	<!-- jQuery ui js -->
+	<script src="http://spartansyouthfootball.com/js/jquery-ui-1.11.4/jquery-ui.js"></script>
+
+
+	<!-- thm custom script -->
+	<script src="http://spartansyouthfootball.com/js/custom.js"></script>
+
+
+
+</body>
+</html>
