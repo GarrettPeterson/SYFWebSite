@@ -103,41 +103,37 @@ window.onload=function(){GetCount();}//call when everything has loaded
 						<a href="/SYF%202018%20Important%20Calendar%20Dates.pdf"  target="_blank" class="thm-btn inverse">Important Dates (PDF)</a>
 				    </div>
                     
-					<!-- Comment out camp ***********************
-	     
+
 					<div class="tp-caption sfl tp-resizeme thm-banner-h1 white black-bg" 
 				        data-x="left" data-hoffset="0" 
-				        data-y="top" data-voffset="10" 
+				        data-y="top" data-voffset="150" 
 				        data-whitespace="nowrap"
 				        data-transform_idle="o:1;" 
 				        data-transform_in="o:0" 
 				        data-transform_out="o:0" 
 				        data-start="500">
-						2017 Summer Camp
+						2018 Summer Camp
 				    </div>
                     <div class="tp-caption sfl tp-resizeme thm-banner-h2 white" 
 				        data-x="left" data-hoffset="0" 
-				        data-y="top" data-voffset="70" 
+				        data-y="top" data-voffset="210" 
 				        data-whitespace="nowrap"
 				        data-transform_idle="o:1;" 
 				        data-transform_in="o:0" 
 				        data-transform_out="o:0" 
 				        data-start="500">
-						July 24-26
+						July 9-11
 				    </div>
                     <div class="tp-caption sfl tp-resizeme" 
 				        data-x="left" data-hoffset="0" 
-				        data-y="top" data-voffset="105" 
+				        data-y="top" data-voffset="235" 
 				        data-whitespace="nowrap"
 				        data-transform_idle="o:1;" 
 				        data-transform_in="o:0" 
 				        data-transform_out="o:0" 
 				        data-start="500">
-						<a href="/info-docs/camp/index.shtml" class="thm-btn inverse">Signup Now!</a>
-				    </div>
-				    
-				   ********************** End of Comment out of camp -->
-                   
+						<a href="/info-docs/2018CampBrochure.pdf" target="_blank" class="thm-btn inverse">Signup Now! (PDF)</a>
+				    </div>                 
 				    <!-- ***************************** Comment out player signup
 				    <div class="tp-caption sfl tp-resizeme thm-banner-h1 white black-bg" 
 				        data-x="left" data-hoffset="0" 
@@ -239,17 +235,27 @@ window.onload=function(){GetCount();}//call when everything has loaded
 
                     <div class="tp-caption sfl tp-resizeme thm-banner-h1 white black-bg" 
 				        data-x="left" data-hoffset="0" 
-				        data-y="top" data-voffset="250" 
+				        data-y="top" data-voffset="300" 
 				        data-whitespace="nowrap"
 				        data-transform_idle="o:1;" 
 				        data-transform_in="o:0" 
 				        data-transform_out="o:0" 
 				        data-start="500">
+						2018 Team Signup
+					</div>
+					<div class="tp-caption sfl tp-resizeme thm-banner-h2 white" 
+						data-x="left" data-hoffset="0" 
+						data-y="top" data-voffset="370" 
+						data-whitespace="nowrap"
+						data-transform_idle="o:1;" 
+						data-transform_in="o:0" 
+						data-transform_out="o:0" 
+						data-start="500">
 						Early Signup Discount Ends July 11th!
-				    </div>
+					</div>
                     <div class="tp-caption sfl tp-resizeme" 
 				        data-x="left" data-hoffset="0" 
-				        data-y="top" data-voffset="315" 
+				        data-y="top" data-voffset="405" 
 				        data-whitespace="nowrap"
 				        data-transform_idle="o:1;" 
 				        data-transform_in="o:0" 
@@ -259,7 +265,7 @@ window.onload=function(){GetCount();}//call when everything has loaded
 				    </div>
 					<div class="tp-caption sfl tp-resizeme" 
 				        data-x="left" data-hoffset="0" 
-				        data-y="top" data-voffset="365" 
+				        data-y="top" data-voffset="470" 
 				        data-whitespace="nowrap"
 				        data-transform_idle="o:1;" 
 				        data-transform_in="o:0" 
