@@ -100,7 +100,7 @@ window.onload=function(){GetCount();}//call when everything has loaded
 				        data-transform_in="o:0" 
 				        data-transform_out="o:0" 
 				        data-start="500">
-						<a href="/SYF%202018%20Important%20Calendar%20Dates.pdf"  target="_blank" class="thm-btn inverse">Important Dates (PDF)</a>
+						<a href="/info-docs/SYF%202018%20Important%20Calendar%20Dates.pdf"  target="_blank" class="thm-btn inverse">Important Dates (PDF)</a>
 				    </div>
                     
 
@@ -261,7 +261,7 @@ window.onload=function(){GetCount();}//call when everything has loaded
 				        data-transform_in="o:0" 
 				        data-transform_out="o:0" 
 				        data-start="500">
-						<a href="/OnlineRegistrationInstructions.pdf"  target="_blank" class="thm-btn inverse">Online Registration Instructions</a>
+						<a href="/info-docs/OnlineRegistrationInstructions.pdf"  target="_blank" class="thm-btn inverse">Online Registration Instructions</a>
 				    </div>
 					<div class="tp-caption sfl tp-resizeme" 
 				        data-x="left" data-hoffset="0" 
